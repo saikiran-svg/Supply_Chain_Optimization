@@ -1,0 +1,4 @@
+product,annual_demand,ordering_cost,holding_cost,lead_time,daily_demand
+P1,15000,500,20,7,50
+P2,10000,400,15,5,35
+P3,20000,600,25,10,65

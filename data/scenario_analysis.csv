@@ -1,0 +1,5 @@
+scenario,inventory_cost,transportation_cost,total_cost
+Base Scenario,52769.86,9788.75,62558.61
+Demand +10%,55345.49,10767.62,66113.12
+Transportation Cost +20%,52769.86,11746.5,64516.36
+Demand -10%,50061.88,8809.88,58871.76
