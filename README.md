@@ -270,4 +270,44 @@ git add README.md
 git commit -m "Add project README"
 git push
 
-That's it. Your GitHub repository will then show the README automatically on the repository homepage.
+## 📊 Power BI Dashboard
+
+### Dashboard Overview
+![Dashboard Overview](visualization/dashboard_overview.png)
+
+### Cost Analysis
+![Cost Analysis](visualization/cost_analysis.png)
+
+### Route Optimization
+![Route Optimization](visualization/route_optimization.png)
+
+### Scenario Analysis
+![Scenario Analysis](visualization/scenario_analysis.png)
+
+## 📊 Project Visualizations
+
+### EOQ Analysis
+![EOQ Analysis](visualization/eoq_analysis.png)
+
+### Safety Stock Analysis
+![Safety Stock Analysis](visualization/safety_stock_analysis.png)
+
+### Annual Inventory Cost
+![Annual Inventory Cost](visualization/annual_inventory-cost.png)
+
+### Inventory Curve
+![Inventory Curve](visualization/Inventory_curve.png)
+
+### Clarke-Wright vs Genetic Algorithm
+![Clarke-Wright vs Genetic Algorithm](visualization/clarke_wright%20vs%20genetic_algo.png)
+
+### Optimized Routes
+![Optimized Routes](visualization/optimized_routes.png)
+
+### Scenario Analysis
+![Scenario Analysis](visualization/scenario_analysis.png)
+
+### Multi-Echelon Supply Chain Network
+![Multi-Echelon Supply Chain Network](visualization/multi_echelon_supplychainNetwork.png)
+
+
